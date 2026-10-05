@@ -154,3 +154,13 @@ npm install
 npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) to view the onboarding portal, interact with the AI mentor, explore the side-by-side model comparator, and inspect the Executive BI Dashboard.
+
+---
+
+## 9. Licence
+
+MIT — © 2026 Liudmila Zolotukhina. See [LICENSE](LICENSE).
+
+Use it, copy it, change it, teach from it. The only requirement is that the copyright notice travels with copies.
+
+The dataset in `data/` is synthetic and describes a company that does not exist.
